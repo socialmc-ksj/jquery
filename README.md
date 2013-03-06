@@ -1,3 +1,5 @@
+jquery / readme 수정해봄 -ksj
+
 [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
